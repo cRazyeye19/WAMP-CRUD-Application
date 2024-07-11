@@ -103,7 +103,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [John Lester G. Pansoy](mailto:jlesterpansoy@gmail.com)
 
 Project Link: [https://github.com/cRazyeye19/WAMP-CRUD-Application.git](https://github.com/cRazyeye19/WAMP-CRUD-Application)
-
----
-
-Feel free to customize this README to better fit your project and personal preferences.
