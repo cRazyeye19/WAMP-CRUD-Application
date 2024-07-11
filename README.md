@@ -102,7 +102,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [John Lester G. Pansoy](mailto:jlesterpansoy@gmail.com)
 
-Project Link: [https://github.com/your-username/your-repository](https://github.com/your-username/your-repository)
+Project Link: [https://github.com/cRazyeye19/WAMP-CRUD-Application.git](https://github.com/cRazyeye19/WAMP-CRUD-Application)
 
 ---
 
